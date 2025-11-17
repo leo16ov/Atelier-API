@@ -1,0 +1,4 @@
+DB_HOST:blfsbfenf6rwvulfxmsx-mysql.services.clever-cloud.com
+DB_USER:uxfax2tfg2qbbmhl
+DB_PASSWORD:iEKKRM6JwgIqSOACvxPw
+DB_NAME:blfsbfenf6rwvulfxmsx
